@@ -14,7 +14,7 @@ repository = "https://github.com/enosuity/dlist"
 keywords = [
   "cli",
   "directory", 
-  "command line",
+  "commandline",
   "directory size",
   "heavy size"
 ]
