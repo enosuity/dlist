@@ -5,8 +5,7 @@ edition = "2021"
 include = [
   "src/**/*",
   "Cargo.toml", 
-  "README.md",
-  
+  "README.md",  
   "LICENSE"
 ]
 homepage = "https://github.com/enosuity/dlist"
