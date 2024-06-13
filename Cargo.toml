@@ -18,7 +18,7 @@ keywords = [
   "directory-size",
   "heavy-size"
 ]
-categories = ["command-line-interface"]
+categories = ["command-line-interface", "cli-tool"]
 license = "MIT"
 
 
