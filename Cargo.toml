@@ -8,6 +8,19 @@ include = [
   "README.md",
   "LICENSE"
 ]
+homepage = "https://github.com/enosuity/dlist"
+description = "A Simple Command line tool to get top directories with higher size"
+repository = "https://github.com/enosuity/dlist"
+keywords = [
+  "cli",
+  "directory", 
+  "command line",
+  "directory size",
+  "heavy size"
+]
+categories = ["command-line-interface"]
+license = "MIT"
+
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
