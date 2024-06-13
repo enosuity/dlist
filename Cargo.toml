@@ -14,9 +14,9 @@ repository = "https://github.com/enosuity/dlist"
 keywords = [
   "cli",
   "directory", 
-  "commandline",
-  "directory size",
-  "heavy size"
+  "command-line",
+  "directory-size",
+  "heavy-size"
 ]
 categories = ["command-line-interface"]
 license = "MIT"
