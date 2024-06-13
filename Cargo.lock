@@ -98,16 +98,6 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "0b6a852b24ab71dffc585bcb46eaf7959d175cb865a7152e35b348d1b2960422"
 
 [[package]]
-name = "dlist"
-version = "0.1.1"
-dependencies = [
- "clap",
- "file-size",
- "thiserror",
- "walkdir",
-]
-
-[[package]]
 name = "file-size"
 version = "1.0.3"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -187,6 +177,16 @@ dependencies = [
  "proc-macro2",
  "quote",
  "syn",
+]
+
+[[package]]
+name = "toplist"
+version = "0.1.1"
+dependencies = [
+ "clap",
+ "file-size",
+ "thiserror",
+ "walkdir",
 ]
 
 [[package]]
